@@ -1,0 +1,30 @@
+#container{
+    border: 2px solid black;
+    height: 500px;
+    width: 350px;
+    border-radius: 5%;
+    margin: 100px auto;
+    align-content: center;
+    padding-left: 20px;
+    background-color: lightgray;
+    color: blue;
+}
+button{
+    
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+input{
+    margin-bottom: 5px;
+}
+#chkAmt{
+    font-size: 25px;
+    
+}
+sup{
+    padding-left: 10px;
+}
+small{
+    padding-left: 10px;
+    font-size: 15px;
+}
