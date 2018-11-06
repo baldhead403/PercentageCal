@@ -1,3 +1,6 @@
+body{
+    background-image: url(dining-clipart-silhouette-3.png)
+}
 #container{
     border: 2px solid black;
     height: 500px;
@@ -7,7 +10,7 @@
     align-content: center;
     padding-left: 20px;
     background-color: lightgray;
-    color: blue;
+    color: black;
 }
 button{
     
